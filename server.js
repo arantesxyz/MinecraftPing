@@ -70,6 +70,7 @@ const server = require("http").createServer((req, res) => {
                     error: { message: "IP or PORT invalid!" }
                 })
             );
+            return;
         }
 
         new McPing(query.ip, query.port).getData((response) => {
