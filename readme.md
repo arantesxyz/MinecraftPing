@@ -28,6 +28,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-See [MineStat](https://github.com/ldilley/minestat/) license, the main ping code idea came from there.
+See [MineStat](https://github.com/ldilley/minestat/) license, the idea came from there.
 
 The rest, do whatever you want with it.
